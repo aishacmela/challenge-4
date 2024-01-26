@@ -1,0 +1,19 @@
+h1 {
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+    color: pink;
+}
+
+.text {
+    border: 1px solid pink;
+    padding: 4px 2px;
+}
+
+.submit {
+    border: 1px solid pink;
+    padding: 4px;
+    border-radius: 6px;
+    background-color: pink;
+
+}
